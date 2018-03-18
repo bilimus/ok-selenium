@@ -1,0 +1,5 @@
+driver.add_cookie({'name': 'test', 'test': 'bar'})
+test_cookie = driver.get_cookie('test')
+cookies = driver.get_cookies()
+driver.delete_cookie('test')
+driver.delete_all_cookies()
