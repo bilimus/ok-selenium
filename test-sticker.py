@@ -23,7 +23,7 @@ def test_example(driver):
     # driver.delete_all_cookies()
     driver.get("http://localhost/litecart/")
     WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CLASS_NAME, "title")))
-    ducks = driver.find_elements_by_class_name("hover-light")
+    ducks = driver.find_elements_by_class_name("product")
 
     for elem in ducks:
         assert len(elem.find_elements_by_class_name("sticker"))==1
