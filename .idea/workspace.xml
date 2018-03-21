@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5690400f-e782-4b56-ba85-a21163a2482e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-lesson10-duckcolor_Chrome.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" />
-      <change beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
+      <change beforePath="$PROJECT_DIR$/test-lesson10-duckcolor_Chrome.py" afterPath="$PROJECT_DIR$/test-lesson10-duckcolor_Firefox.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -87,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test-lesson10-duckcolor_Chrome.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test-lesson10-duckcolor_Chrome.py">
+      <file leaf-file-name="test-lesson10-duckcolor_Firefox.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test-lesson10-duckcolor_Firefox.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="109" column="0" lean-forward="true" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+            <state relative-caret-position="2120">
+              <caret line="109" column="0" lean-forward="false" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -833,10 +830,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-lesson10-duckcolor_Chrome.py">
+    <entry file="file://$PROJECT_DIR$/test-lesson10-duckcolor_Firefox.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="109" column="0" lean-forward="true" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+        <state relative-caret-position="2120">
+          <caret line="109" column="0" lean-forward="false" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
