@@ -1,4 +1,5 @@
 {
   "test-geozones.py": true,
+  "test-lesson10-duckcolor_Chrome.py": true,
   "test-temp.py::test_example": true
 }
