@@ -25,6 +25,10 @@ def main_page_load(driver):
     list_of_c = driver.find_element_by_name('geo_zones_form')
     return list_of_c.find_elements_by_css_selector('td')
 
+def choose_el(element):
+    for elem in element:
+        if elem.get_attribute('selected'):
+            return elem.text
 
 def test_example(driver):
     # driver.get("http://localhost/litecart/admin/")
@@ -42,23 +46,22 @@ def test_example(driver):
     for i in range(0, len_tds):
         if i % 7 == 2:
             tds[i].find_element_by_tag_name('a').click()
+            time.sleep(1)
             WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.ID, "table-zones")))
             sublist = driver.find_element_by_id('table-zones')
             sub_tds = sublist.find_elements_by_tag_name('td')
             sub_len_tds = len(sub_tds)
 
-            for j in range(6, sub_len_tds-2, 4):
-                options_1 = sub_tds[j-4].find_elements_by_css_selector('select option')
-                options_2 = sub_tds[j].find_elements_by_css_selector('select option')
+            options_1 = sub_tds[2].find_elements_by_css_selector('select option')
+            compare_1 = choose_el(options_1)
 
-                for elem in options_1:
-                    if elem.get_attribute('selected'):
-                        compare_1 = elem.text
-                for elem in options_2:
-                    if elem.get_attribute('selected'):
-                        compare_2 = elem.text
+            for j in range(6, sub_len_tds-2, 4):
+
+                options_2 = sub_tds[j].find_elements_by_css_selector('select option')
+                compare_2 = choose_el(options_2)
 
                 assert compare_1 < compare_2
+                compare_2 = compare_1
 
             tds = main_page_load(driver)
 

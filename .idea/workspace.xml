@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5690400f-e782-4b56-ba85-a21163a2482e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-country-sort.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-geozones.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
+      <change beforePath="$PROJECT_DIR$/test-geozones.py" afterPath="$PROJECT_DIR$/test-geozones.py" />
       <change beforePath="$PROJECT_DIR$/test-temp.py" afterPath="$PROJECT_DIR$/test-temp.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +20,7 @@
       <file leaf-file-name="test-litecart.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test-litecart.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="440">
               <caret line="26" column="62" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="29" selection-end-column="87" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -34,7 +32,7 @@
       <file leaf-file-name="test-litecart-menu.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test-litecart-menu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="400">
               <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -46,11 +44,9 @@
       <file leaf-file-name="test-temp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test-temp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="54" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="65" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -58,7 +54,7 @@
       <file leaf-file-name="test-sticker.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test-sticker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="100">
               <caret line="5" column="61" lean-forward="false" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -67,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test-country-sort.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test-country-sort.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test-country-sort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+              <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -79,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test-geozones.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test-geozones.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test-geozones.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="55" column="45" lean-forward="true" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+            <state relative-caret-position="340">
+              <caret line="48" column="24" lean-forward="false" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -94,7 +90,7 @@
       <file leaf-file-name="test-extra1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test-extra1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="740">
               <caret line="43" column="88" lean-forward="false" selection-start-line="43" selection-start-column="88" selection-end-line="43" selection-end-column="88" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -106,7 +102,7 @@
       <file leaf-file-name="test-google.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test-google.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="220">
               <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -142,8 +138,8 @@
         <option value="$PROJECT_DIR$/test-litecart-menu.py" />
         <option value="$PROJECT_DIR$/test-sticker.py" />
         <option value="$PROJECT_DIR$/test-extra1.py" />
-        <option value="$PROJECT_DIR$/test-temp.py" />
         <option value="$PROJECT_DIR$/test-country-sort.py" />
+        <option value="$PROJECT_DIR$/test-temp.py" />
         <option value="$PROJECT_DIR$/test-geozones.py" />
       </list>
     </option>
@@ -170,7 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,6 +177,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -200,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for test-country-sort.test_example">
+  <component name="RunManager" selected="Python tests.py.test for test-geozones.test_example">
     <configuration name="py.test for test-country-sort.test_example" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,8 +281,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test-country-sort.test_example" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test-geozones.test_example" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test-geozones.test_example" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test-country-sort.test_example" />
         <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test-country-sort.py" />
         <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test-extra1.py" />
         <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test-sticker.py" />
@@ -310,34 +306,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_test-country-sort_test_example - 2018.03.21 at 18h 09m 58s.xml">
+    <history-entry file="py_test_for_test-country-sort_test_example - 2018.03.21 at 18h 32m 52s.xml">
       <configuration name="py.test for test-country-sort.test_example" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test-geozones_test_example - 2018.03.21 at 17h 36m 25s.xml">
-      <configuration name="py.test for test-geozones.test_example" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test-geozones_test_example - 2018.03.21 at 17h 45m 54s.xml">
-      <configuration name="py.test for test-geozones.test_example" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test-geozones_test_example - 2018.03.21 at 17h 47m 19s.xml">
-      <configuration name="py.test for test-geozones.test_example" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test-geozones_test_example - 2018.03.21 at 17h 48m 21s.xml">
-      <configuration name="py.test for test-geozones.test_example" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test-geozones_test_example - 2018.03.21 at 17h 49m 47s.xml">
-      <configuration name="py.test for test-geozones.test_example" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test-geozones_test_example - 2018.03.21 at 17h 51m 28s.xml">
-      <configuration name="py.test for test-geozones.test_example" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test-geozones_test_example - 2018.03.21 at 17h 53m 43s.xml">
-      <configuration name="py.test for test-geozones.test_example" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_for_test-geozones_test_example - 2018.03.21 at 17h 58m 23s.xml">
       <configuration name="py.test for test-geozones.test_example" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_for_test-geozones_test_example - 2018.03.21 at 18h 03m 56s.xml">
+      <configuration name="py.test for test-geozones.test_example" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test-geozones_test_example - 2018.03.21 at 18h 33m 28s.xml">
+      <configuration name="py.test for test-geozones.test_example" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test-geozones_test_example - 2018.03.21 at 18h 35m 38s.xml">
+      <configuration name="py.test for test-geozones.test_example" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test-geozones_test_example - 2018.03.21 at 18h 44m 49s.xml">
+      <configuration name="py.test for test-geozones.test_example" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test-geozones_test_example - 2018.03.21 at 18h 48m 03s.xml">
+      <configuration name="py.test for test-geozones.test_example" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test-geozones_test_example - 2018.03.21 at 18h 51m 07s.xml">
+      <configuration name="py.test for test-geozones.test_example" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test-geozones_test_example - 2018.03.21 at 18h 53m 13s.xml">
+      <configuration name="py.test for test-geozones.test_example" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test-geozones_test_example - 2018.03.21 at 18h 54m 56s.xml">
       <configuration name="py.test for test-geozones.test_example" configurationId="tests" />
     </history-entry>
   </component>
@@ -384,9 +380,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -438,9 +432,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -757,7 +749,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test-litecart-menu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="400">
           <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -767,7 +759,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test-google.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="220">
           <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -777,7 +769,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test-extra1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="740">
           <caret line="43" column="88" lean-forward="false" selection-start-line="43" selection-start-column="88" selection-end-line="43" selection-end-column="88" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -787,7 +779,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test-sticker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="100">
           <caret line="5" column="61" lean-forward="false" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -797,7 +789,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test-litecart.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="440">
           <caret line="26" column="62" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="29" selection-end-column="87" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -805,30 +797,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-temp.py">
+    <entry file="file://$PROJECT_DIR$/test-country-sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="54" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="65" />
+        <state relative-caret-position="216">
+          <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-geozones.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="55" column="45" lean-forward="true" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-country-sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+        <state relative-caret-position="340">
+          <caret line="48" column="24" lean-forward="false" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
