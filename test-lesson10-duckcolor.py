@@ -11,11 +11,11 @@ from selenium.webdriver.support.color import Color
 def driver(request):
     # wd = webdriver.Chrome()
     # wd = webdriver.Firefox()
-    # wd = webdriver.Ie()
+    wd = webdriver.Ie()
     # wd = webdriver.Edge()
     # wd = webdriver.Firefox(capabilities={"marionette": False})
     # wd = webdriver.Firefox(firefox_binary="c:\\Program Files\\Firefox Nightly\\firefox.exe")
-    wd = webdriver.Firefox(firefox_binary="c:\\Program Files\\Mozilla Firefox\\firefox.exe")
+    #wd = webdriver.Firefox(firefox_binary="c:\\Program Files\\Mozilla Firefox\\firefox.exe")
     # print(wd.capabilities)
     request.addfinalizer(wd.quit)
     return wd
@@ -29,7 +29,7 @@ def is_element_present(driver, *args):
 
 def test_example(driver):
     # driver.get("http://localhost/litecart/admin/")
-    # driver.delete_all_cookies()
+    driver.delete_all_cookies()
     driver.get("http://localhost/litecart/")
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "box-campaigns")))
 

@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5690400f-e782-4b56-ba85-a21163a2482e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
-      <change beforePath="$PROJECT_DIR$/test-lesson10-duckcolor_Firefox.py" afterPath="$PROJECT_DIR$/test-lesson10-duckcolor_Firefox.py" />
+      <change beforePath="$PROJECT_DIR$/test-lesson10-duckcolor_Firefox.py" afterPath="$PROJECT_DIR$/test-lesson10-duckcolor.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -86,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test-lesson10-duckcolor_Firefox.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test-lesson10-duckcolor_Firefox.py">
+      <file leaf-file-name="test-lesson10-duckcolor.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test-lesson10-duckcolor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="80" column="40" lean-forward="false" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+            <state relative-caret-position="676">
+              <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -180,7 +179,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,7 +191,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,9 +319,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_test-lesson10-duckcolor_Chrome_test_example - 2018.03.21 at 22h 18m 22s.xml">
-      <configuration name="py.test for test-lesson10-duckcolor_Chrome.test_example" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_for_test-lesson10-duckcolor_Chrome_test_example - 2018.03.21 at 22h 26m 16s.xml">
       <configuration name="py.test for test-lesson10-duckcolor_Chrome.test_example" configurationId="tests" />
     </history-entry>
@@ -348,6 +344,9 @@
       <configuration name="py.test for test-lesson10-duckcolor_Chrome.test_example" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_for_test-lesson10-duckcolor_Firefox_test_example - 2018.03.21 at 23h 07m 43s.xml">
+      <configuration name="py.test for test-lesson10-duckcolor_Firefox.test_example" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test-lesson10-duckcolor_Firefox_test_example - 2018.03.21 at 23h 40m 22s.xml">
       <configuration name="py.test for test-lesson10-duckcolor_Firefox.test_example" configurationId="tests" />
     </history-entry>
   </component>
@@ -832,10 +831,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-lesson10-duckcolor_Firefox.py">
+    <entry file="file://$PROJECT_DIR$/test-lesson10-duckcolor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="80" column="40" lean-forward="false" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+        <state relative-caret-position="676">
+          <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
