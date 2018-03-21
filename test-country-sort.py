@@ -44,11 +44,12 @@ def test_example(driver):
             assert tds[i-7].text < tds[i].text
             if tds[i-6].text != '0':
                 tds[i-7].find_element_by_tag_name('a').click()
+                WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.ID, "table-zones")))
                 sublist = driver.find_element_by_id('table-zones')
                 sub_tds = sublist.find_elements_by_tag_name('td')
                 sub_len_tds = len(sub_tds)
 
-                for j in range(6, sub_len_tds-3, 4):
+                for j in range(6, sub_len_tds-2, 4):
                     assert sub_tds[j-4].text < sub_tds[j].text
                 tds = main_page_load(driver)
 

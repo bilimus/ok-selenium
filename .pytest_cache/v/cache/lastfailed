@@ -1,3 +1,4 @@
 {
+  "test-geozones.py": true,
   "test-temp.py::test_example": true
 }
