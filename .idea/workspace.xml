@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5690400f-e782-4b56-ba85-a21163a2482e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/test-lesson-11.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/test-lesson10-duckcolor_Firefox.py" afterPath="$PROJECT_DIR$/test-lesson10-duckcolor.py" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
+      <change beforePath="$PROJECT_DIR$/test-lesson10-duckcolor.py" afterPath="$PROJECT_DIR$/test-lesson10-duckcolor.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytest-3.4.2.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytest-3.4.2.dist-info/RECORD" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/py.test.exe" afterPath="$PROJECT_DIR$/venv/Scripts/py.test.exe" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pytest.exe" afterPath="$PROJECT_DIR$/venv/Scripts/pytest.exe" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,107 +21,13 @@
   <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test-litecart.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-litecart.py">
+      <file leaf-file-name="test-lesson-11.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test-lesson-11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="26" column="62" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="29" selection-end-column="87" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test-litecart-menu.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-litecart-menu.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="860">
-              <caret line="48" column="58" lean-forward="false" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="61" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test-temp.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-temp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test-sticker.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-sticker.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="61" lean-forward="false" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test-country-sort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-country-sort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="61" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="65" />
+            <state relative-caret-position="260">
+              <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test-geozones.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-geozones.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="48" column="24" lean-forward="false" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test-lesson10-duckcolor.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test-lesson10-duckcolor.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test-extra1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-extra1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="28" column="71" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="28" selection-end-column="91" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test-google.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-google.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -151,17 +63,34 @@
         <option value="$PROJECT_DIR$/test-country-sort.py" />
         <option value="$PROJECT_DIR$/test-temp.py" />
         <option value="$PROJECT_DIR$/test-geozones.py" />
-        <option value="$PROJECT_DIR$/test-lesson10-duckcolor.py" />
         <option value="$PROJECT_DIR$/test-lesson10-duckcolor_Chrome.py" />
         <option value="$PROJECT_DIR$/test-lesson10-duckcolor_Firefox.py" />
+        <option value="$PROJECT_DIR$/test-lesson10-duckcolor.py" />
+        <option value="$PROJECT_DIR$/test-lesson-11.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -179,6 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -191,11 +121,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -209,22 +138,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for test-lesson10-duckcolor_Firefox.test_example">
-    <configuration name="py.test for test-country-sort.test_example" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="okila-selenium" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test-country-sort.test_example&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.py.test in test-lesson-11.py">
     <configuration name="py.test for test-geozones.test_example" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,7 +184,7 @@
       <option name="_new_target" value="&quot;test-lesson10-duckcolor_Firefox.test_example&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test in test-country-sort.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test in test-lesson-11.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -282,23 +196,38 @@
       <module name="okila-selenium" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test-country-sort.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test-lesson-11.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="py.test in test-lesson10-duckcolor.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="okila-selenium" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test-lesson10-duckcolor.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test-country-sort.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test-geozones.test_example" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test-country-sort.test_example" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test-lesson10-duckcolor_Chrome.test_example" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test-lesson10-duckcolor_Firefox.test_example" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test-geozones.test_example" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test-lesson10-duckcolor_Chrome.test_example" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test-lesson10-duckcolor_Firefox.test_example" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test-lesson10-duckcolor.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test-lesson-11.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test-lesson10-duckcolor_Firefox.test_example" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test-lesson10-duckcolor_Chrome.test_example" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test-geozones.test_example" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test-country-sort.test_example" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test-country-sort.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test-lesson-11.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test-lesson10-duckcolor.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test-lesson10-duckcolor_Firefox.test_example" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test-lesson10-duckcolor_Chrome.test_example" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test-geozones.test_example" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +235,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Bekhzod\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -319,46 +248,47 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_test-lesson10-duckcolor_Chrome_test_example - 2018.03.21 at 22h 26m 16s.xml">
-      <configuration name="py.test for test-lesson10-duckcolor_Chrome.test_example" configurationId="tests" />
+    <history-entry file="py_test_in_test-lesson-11_py - 2018.03.24 at 17h 39m 29s.xml">
+      <configuration name="py.test in test-lesson-11.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test-lesson10-duckcolor_Chrome_test_example - 2018.03.21 at 22h 26m 57s.xml">
-      <configuration name="py.test for test-lesson10-duckcolor_Chrome.test_example" configurationId="tests" />
+    <history-entry file="py_test_in_test-lesson-11_py - 2018.03.24 at 17h 42m 48s.xml">
+      <configuration name="py.test in test-lesson-11.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test-lesson10-duckcolor_Chrome_test_example - 2018.03.21 at 22h 32m 43s.xml">
-      <configuration name="py.test for test-lesson10-duckcolor_Chrome.test_example" configurationId="tests" />
+    <history-entry file="py_test_in_test-lesson-11_py - 2018.03.24 at 17h 43m 38s.xml">
+      <configuration name="py.test in test-lesson-11.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test-lesson10-duckcolor_Chrome_test_example - 2018.03.21 at 22h 33m 28s.xml">
-      <configuration name="py.test for test-lesson10-duckcolor_Chrome.test_example" configurationId="tests" />
+    <history-entry file="py_test_in_test-lesson-11_py - 2018.03.24 at 17h 46m 02s.xml">
+      <configuration name="py.test in test-lesson-11.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test-lesson10-duckcolor_Chrome_test_example - 2018.03.21 at 22h 40m 27s.xml">
-      <configuration name="py.test for test-lesson10-duckcolor_Chrome.test_example" configurationId="tests" />
+    <history-entry file="py_test_in_test-lesson-11_py - 2018.03.24 at 17h 47m 12s.xml">
+      <configuration name="py.test in test-lesson-11.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test-lesson10-duckcolor_Chrome_test_example - 2018.03.21 at 22h 41m 52s.xml">
-      <configuration name="py.test for test-lesson10-duckcolor_Chrome.test_example" configurationId="tests" />
+    <history-entry file="py_test_in_test-lesson-11_py - 2018.03.24 at 18h 01m 22s.xml">
+      <configuration name="py.test in test-lesson-11.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test-lesson10-duckcolor_Chrome_test_example - 2018.03.21 at 22h 44m 55s.xml">
-      <configuration name="py.test for test-lesson10-duckcolor_Chrome.test_example" configurationId="tests" />
+    <history-entry file="py_test_in_test-lesson-11_py - 2018.03.24 at 18h 02m 48s.xml">
+      <configuration name="py.test in test-lesson-11.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test-lesson10-duckcolor_Chrome_test_example - 2018.03.21 at 22h 50m 56s.xml">
-      <configuration name="py.test for test-lesson10-duckcolor_Chrome.test_example" configurationId="tests" />
+    <history-entry file="py_test_in_test-lesson-11_py - 2018.03.24 at 18h 03m 42s.xml">
+      <configuration name="py.test in test-lesson-11.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test-lesson10-duckcolor_Firefox_test_example - 2018.03.21 at 23h 07m 43s.xml">
-      <configuration name="py.test for test-lesson10-duckcolor_Firefox.test_example" configurationId="tests" />
+    <history-entry file="py_test_in_test-lesson-11_py - 2018.03.24 at 18h 05m 01s.xml">
+      <configuration name="py.test in test-lesson-11.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test-lesson10-duckcolor_Firefox_test_example - 2018.03.21 at 23h 40m 22s.xml">
-      <configuration name="py.test for test-lesson10-duckcolor_Firefox.test_example" configurationId="tests" />
+    <history-entry file="py_test_in_test-lesson-11_py - 2018.03.24 at 18h 06m 00s.xml">
+      <configuration name="py.test in test-lesson-11.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.220625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29986963" sideWeight="0.5025" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29986963" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25814864" sideWeight="0.4975" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -382,21 +312,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test-temp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test-google.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="11" column="91" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="94" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -404,9 +323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -414,9 +330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -438,7 +351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -446,9 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="11" column="91" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="94" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -470,9 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -480,9 +386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="11" column="91" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="94" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -504,9 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -514,9 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -531,9 +428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -541,9 +435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -558,9 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="24" column="57" lean-forward="false" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -568,9 +456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -578,9 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -588,9 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -598,9 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -608,9 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -618,9 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -628,9 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -638,9 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -648,9 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -658,9 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -668,9 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -678,9 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -688,9 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -698,9 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -757,37 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-temp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-sticker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="61" lean-forward="false" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-country-sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="61" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -795,9 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="48" column="24" lean-forward="false" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -805,9 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="26" column="62" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="29" selection-end-column="87" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -815,9 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="860">
           <caret line="48" column="58" lean-forward="false" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -825,16 +631,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="28" column="71" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="28" selection-end-column="91" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-country-sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-sticker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="61" lean-forward="false" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-lesson10-duckcolor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        <state relative-caret-position="416">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-lesson-11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
