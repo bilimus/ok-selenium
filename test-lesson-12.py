@@ -32,7 +32,7 @@ def test_example(driver):
     driver.find_element_by_name("login").click()
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "box-apps-menu")))
 
-    pr_data = ['Umbrella', 'umbr', 'c:\\GitHub\\okila-selenium\\', '03/24/2018', '04/24/2018']
+    pr_data = ['Umbrella', 'umbr', '/bilimus/okila-selenium/', '03/24/2018', '04/24/2018']
 
     driver.find_element_by_css_selector('#box-apps-menu a[href*="catalog"]').click()
     driver.find_element_by_css_selector('#content a[href*="edit_product"]').click()
