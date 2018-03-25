@@ -32,14 +32,14 @@ def test_example(driver):
     driver.find_element_by_name("login").click()
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "box-apps-menu")))
 
-    pr_data = ['Umbrella', 'umbr', 'images/products/8-zontik-1.jpg', '03/24/2018', '04/24/2018']
+    pr_data = ['Umbrella', 'umbr', 'c:\\GitHub\\okila-selenium\\', '03/24/2018', '04/24/2018']
 
     driver.find_element_by_css_selector('#box-apps-menu a[href*="catalog"]').click()
     driver.find_element_by_css_selector('#content a[href*="edit_product"]').click()
 
     driver.find_element_by_css_selector('#tab-general input[name="name[en]"]').send_keys(pr_data[0])
     driver.find_element_by_css_selector('#tab-general input[name="code"]').send_keys(pr_data[1])
-    # driver.find_element_by_css_selector('#tab-general input[name="new_images[]"]').send_keys(pr_data[2])
+    driver.find_element_by_css_selector('#tab-general input[name="new_images[]"]').send_keys(pr_data[2])
     driver.find_element_by_css_selector('#tab-general input[name="date_valid_from"]').send_keys(pr_data[3])
     driver.find_element_by_css_selector('#tab-general input[name="date_valid_to"]').send_keys(pr_data[4])
     driver.find_element_by_css_selector('#content a[href*="#tab-information"]').click()
@@ -48,9 +48,9 @@ def test_example(driver):
     sub_menu = driver.find_element_by_css_selector('#tab-information select[name="manufacturer_id"] option[value="1"]')
     sub_menu.click()
     # ActionChains(driver).move_to_element(main_menu).click(sub_menu).perform()
-    
-    time.sleep(5)
 
+    time.sleep(5)
+# c:\GitHub\okila-selenium\
 
 
 
