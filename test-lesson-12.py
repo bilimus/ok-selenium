@@ -23,6 +23,13 @@ def driver(request):
     request.addfinalizer(wd.quit)
     return wd
 
+def is_element_present(driver, *args):
+    try:
+        driver.find_element(*args)
+        return True
+    except NoSuchElementException:
+        return False
+
 def test_example(driver):
     driver.get("http://localhost/litecart/admin/")
     driver.delete_all_cookies()
@@ -96,9 +103,20 @@ def test_example(driver):
 
     driver.find_element_by_css_selector('#content button[name = "save"]').click()
 
-    time.sleep(5)
+    time.sleep(2)
 
+    assert is_element_present(driver, By.CSS_SELECTOR, '#notices .success') is True
 
+    box = driver.find_elements_by_css_selector('#content tbody td a')
+    for elem in box:
+        if elem.text == 'Umbrella':
+            elem.click()
+            break
+    time.sleep(2)
+
+    assert is_element_present(driver, By.CSS_SELECTOR, '#tab-general input[name="name[en]"]') is True
+
+    time.sleep(2)
 
 
 
