@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5690400f-e782-4b56-ba85-a21163a2482e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/temp.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/temp.py" afterPath="$PROJECT_DIR$/temp.py" />
       <change beforePath="$PROJECT_DIR$/test-lesson-11.py" afterPath="$PROJECT_DIR$/test-lesson-11.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,21 +15,11 @@
   <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test-lesson-12.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-lesson-12.py">
+      <file leaf-file-name="test-lesson-11.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test-lesson-11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1740">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="temp.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/temp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="111" column="16" lean-forward="false" selection-start-line="111" selection-start-column="16" selection-end-line="111" selection-end-column="16" />
+            <state relative-caret-position="316">
+              <caret line="108" column="4" lean-forward="true" selection-start-line="108" selection-start-column="4" selection-end-line="108" selection-end-column="4" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -78,8 +67,8 @@
         <option value="$PROJECT_DIR$/test-lesson10-duckcolor.py" />
         <option value="$PROJECT_DIR$/test-lesson 12.py" />
         <option value="$PROJECT_DIR$/test-lesson-12.py" />
-        <option value="$PROJECT_DIR$/test-lesson-11.py" />
         <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$PROJECT_DIR$/test-lesson-11.py" />
       </list>
     </option>
   </component>
@@ -121,7 +110,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,7 +122,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in temp.py">
+  <component name="RunManager" selected="Python tests.py.test in test-lesson-11.py">
     <configuration name="py.test for test-lesson-12.test_example" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,10 +225,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in temp.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test-lesson-12.test_example" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test-lesson-12.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test-lesson-11.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test-lesson-11.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in temp.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test-lesson-12.test_example" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test-lesson-12.py" />
         <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test-lesson10-duckcolor.py" />
       </list>
     </recent_temporary>
@@ -261,15 +250,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_temp_py - 2018.03.27 at 02h 27m 48s.xml">
-      <configuration name="py.test in temp.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_temp_py - 2018.03.27 at 02h 29m 24s.xml">
-      <configuration name="py.test in temp.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_temp_py - 2018.03.27 at 02h 30m 45s.xml">
-      <configuration name="py.test in temp.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_in_temp_py - 2018.03.27 at 02h 32m 20s.xml">
       <configuration name="py.test in temp.py" configurationId="tests" />
     </history-entry>
@@ -290,6 +270,15 @@
     </history-entry>
     <history-entry file="py_test_in_temp_py - 2018.03.27 at 02h 54m 31s.xml">
       <configuration name="py.test in temp.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_temp_py - 2018.03.27 at 03h 03m 15s.xml">
+      <configuration name="py.test in temp.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test-lesson-11_py - 2018.03.27 at 03h 04m 20s.xml">
+      <configuration name="py.test in test-lesson-11.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test-lesson-11_py - 2018.03.27 at 03h 07m 56s.xml">
+      <configuration name="py.test in test-lesson-11.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -657,32 +646,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-lesson-11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="52" column="29" lean-forward="true" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#11#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-lesson-12.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1740">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-840">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/temp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="111" column="16" lean-forward="false" selection-start-line="111" selection-start-column="16" selection-end-line="111" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-lesson-11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="108" column="4" lean-forward="true" selection-start-line="108" selection-start-column="4" selection-end-line="108" selection-end-column="4" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
