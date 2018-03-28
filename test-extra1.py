@@ -8,13 +8,13 @@ from selenium.common.exceptions import NoSuchElementException
 
 @pytest.fixture
 def driver(request):
-    # wd = webdriver.Chrome()
+    wd = webdriver.Chrome()
     # wd = webdriver.Firefox()
     # wd = webdriver.Ie()
     # wd = webdriver.Edge()
     # wd = webdriver.Firefox(capabilities={"marionette": False})
     # wd = webdriver.Firefox(firefox_binary="c:\\Program Files\\Firefox Nightly\\firefox.exe")
-    wd = webdriver.Firefox(firefox_binary="c:\\Program Files\\Mozilla Firefox\\firefox.exe")
+    # wd = webdriver.Firefox(firefox_binary="c:\\Program Files\\Mozilla Firefox\\firefox.exe")
     # print(wd.capabilities)
     request.addfinalizer(wd.quit)
     return wd

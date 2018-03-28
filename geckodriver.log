@@ -5322,3 +5322,23 @@ Unable to read VR Path Registry from C:\Users\Bekhzod\AppData\Local\openvr\openv
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
 1522052971767	geckodriver::marionette	ERROR	Failed to stop browser process
+1522239448860	geckodriver	INFO	geckodriver 0.20.0
+1522239449018	geckodriver	INFO	Listening on 127.0.0.1:2220
+1522239452152	mozrunner::runner	INFO	Running command: "c:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Bekhzod\\AppData\\Local\\Temp\\rust_mozprofile.P4IVO6NDq0GW"
+Unable to read VR Path Registry from C:\Users\Bekhzod\AppData\Local\openvr\openvrpaths.vrpath
+1522239454584	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Bekhzod\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bekhzod\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bekhzod\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Bekhzod\AppData\Local\openvr\openvrpaths.vrpath
+1522239462198	Marionette	INFO	Listening on port 2230
+1522239462770	Marionette	WARN	TLS certificate errors will be ignored for this session
+[[ParChiled1522239483440	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: errorn 15
+t832, Chrome_ Chi1l47dThrea48d] WARNING,: Ge pipeck erroor: _109: IOThread] WARNfIile z:/build/build/src/ipc/chromiuNm/src/chrome/common/ipc_chGannel_win.cc, line 3:4 6pipe 
+error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_w*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_pingin.cc, line 346
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522239488760	geckodriver::marionette	ERROR	Failed to stop browser process
