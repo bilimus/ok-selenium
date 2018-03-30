@@ -22,6 +22,13 @@ def driver(request):
     request.addfinalizer(wd.quit)
     return wd
 
+def is_element_present(driver, *args):
+    try:
+        driver.find_element(*args)
+        return True
+    except NoSuchElementException:
+        return False
+
 def test_example(driver):
     # driver.get("http://localhost/litecart/admin/")
     driver.get("http://localhost/litecart/")
@@ -43,31 +50,42 @@ def test_example(driver):
         if elem.text == 'United States':
             elem.click()
             break
-
     time.sleep(2)
     box = driver.find_elements_by_css_selector('#create-account select[name="zone_code"] option')
     for elem in box:
         if elem.text == 'California':
             elem.click()
             break
-    mail = str(uuid.uuid4()) + '@mail.ru'
+    mail = str(uuid.uuid4()) + '@google.com'
     driver.find_element_by_css_selector('#create-account input[name="email"]').send_keys(mail)
+    driver.find_element_by_css_selector('#create-account input[name="phone"]').send_keys(Keys.HOME + '+11234567889')
+    driver.find_element_by_css_selector('#create-account input[name="password"]').send_keys("44444444")
+    driver.find_element_by_css_selector('#create-account input[name="confirmed_password"]').send_keys("44444444")
+    driver.find_element_by_css_selector('#create-account button[name="create_account"]').click()
+
+    time.sleep(2)
+    assert is_element_present(driver, By.CSS_SELECTOR, '#box-account') is True
+
+    box = driver.find_elements_by_css_selector('#box-account a')
+    for elem in box:
+        if elem.text == 'Logout':
+            elem.click()
+            break
+
+    assert is_element_present(driver, By.CSS_SELECTOR, '#box-account-login') is True
+
+    driver.find_element_by_css_selector('#box-account-login input[name="email"]').send_keys(mail)
+    driver.find_element_by_css_selector('#box-account-login input[name="password"]').send_keys("44444444")
+    driver.find_element_by_css_selector('#box-account-login button[name="login"]').click()
+
+    time.sleep(2)
+
+    box = driver.find_elements_by_css_selector('#box-account a')
+    for elem in box:
+        if elem.text == 'Logout':
+            elem.click()
+            break
 
 
     time.sleep(5)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
