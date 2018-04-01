@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5690400f-e782-4b56-ba85-a21163a2482e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-extra-13.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test-extra-12.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test-task-14.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test-temp2.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/test-extra-11.py" afterPath="$PROJECT_DIR$/test-extra-11.py" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
+      <change beforePath="$PROJECT_DIR$/test-extra-13.py" afterPath="$PROJECT_DIR$/test-extra-13.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,14 +20,12 @@
   <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test-extra-13.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test-extra-13.py">
+      <file leaf-file-name="test-task-14.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test-task-14.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="47" column="4" lean-forward="false" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -72,7 +74,10 @@
         <option value="$PROJECT_DIR$/test-extra1.py" />
         <option value="$PROJECT_DIR$/test-task-13.py" />
         <option value="$PROJECT_DIR$/test-extra-11.py" />
+        <option value="$PROJECT_DIR$/test-temp2.py" />
         <option value="$PROJECT_DIR$/test-extra-13.py" />
+        <option value="$PROJECT_DIR$/test-extra-12.py" />
+        <option value="$PROJECT_DIR$/test-task-14.py" />
       </list>
     </option>
   </component>
@@ -114,7 +119,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,7 +131,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,8 +149,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in test-extra-13.py">
-    <configuration name="py.test for test-extra-11.test_example" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.py.test for test-task-14.test_example">
+    <configuration name="py.test for test-extra-13.test_example" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -157,10 +162,10 @@
       <module name="okila-selenium" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test-extra-11.test_example&quot;" />
+      <option name="_new_target" value="&quot;test-extra-13.test_example&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test-extra1.test_example" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test-task-12.test_example" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -172,10 +177,10 @@
       <module name="okila-selenium" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test-extra1.test_example&quot;" />
+      <option name="_new_target" value="&quot;test-task-12.test_example&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test in test-extra-11.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test-task-14.test_example" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -187,10 +192,25 @@
       <module name="okila-selenium" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test-extra-11.py&quot;" />
+      <option name="_new_target" value="&quot;test-task-14.test_example&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test in test-extra-12.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="okila-selenium" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test-extra-12.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="py.test in test-extra-13.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test in test-task-14.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -202,38 +222,23 @@
       <module name="okila-selenium" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test-extra-13.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration name="py.test in test-task-13.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="okila-selenium" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test-task-13.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test-task-14.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test-extra-11.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test-extra1.test_example" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test-task-13.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test-extra-11.test_example" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test-extra-13.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test-extra-13.test_example" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test-task-12.test_example" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test-task-14.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test-extra-12.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test-task-14.test_example" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test-extra-13.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test-extra-11.test_example" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test-task-13.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test-extra1.test_example" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test-extra-11.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test-task-14.test_example" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test-extra-12.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test-task-14.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test-task-12.test_example" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test-extra-13.test_example" />
       </list>
     </recent_temporary>
   </component>
@@ -254,35 +259,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test-extra-13_py - 2018.03.30 at 00h 21m 39s.xml">
-      <configuration name="py.test in test-extra-13.py" configurationId="tests" />
+    <history-entry file="py_test_for_test-task-14_test_example - 2018.04.01 at 18h 13m 43s.xml">
+      <configuration name="py.test for test-task-14.test_example" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test-extra-13_py - 2018.03.30 at 00h 22m 17s.xml">
-      <configuration name="py.test in test-extra-13.py" configurationId="tests" />
+    <history-entry file="py_test_for_test-task-14_test_example - 2018.04.01 at 18h 15m 08s.xml">
+      <configuration name="py.test for test-task-14.test_example" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test-extra-13_py - 2018.03.30 at 00h 22m 46s.xml">
-      <configuration name="py.test in test-extra-13.py" configurationId="tests" />
+    <history-entry file="py_test_for_test-task-14_test_example - 2018.04.01 at 18h 16m 57s.xml">
+      <configuration name="py.test for test-task-14.test_example" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test-extra-13_py - 2018.03.30 at 00h 27m 13s.xml">
-      <configuration name="py.test in test-extra-13.py" configurationId="tests" />
+    <history-entry file="py_test_for_test-task-14_test_example - 2018.04.01 at 18h 23m 49s.xml">
+      <configuration name="py.test for test-task-14.test_example" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test-extra-13_py - 2018.03.30 at 00h 27m 37s.xml">
-      <configuration name="py.test in test-extra-13.py" configurationId="tests" />
+    <history-entry file="py_test_for_test-task-14_test_example - 2018.04.01 at 18h 25m 13s.xml">
+      <configuration name="py.test for test-task-14.test_example" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test-extra-13_py - 2018.03.30 at 00h 59m 32s.xml">
-      <configuration name="py.test in test-extra-13.py" configurationId="tests" />
+    <history-entry file="py_test_for_test-task-14_test_example - 2018.04.01 at 21h 02m 39s.xml">
+      <configuration name="py.test for test-task-14.test_example" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test-extra-13_py - 2018.03.30 at 01h 14m 16s.xml">
-      <configuration name="py.test in test-extra-13.py" configurationId="tests" />
+    <history-entry file="py_test_for_test-task-14_test_example - 2018.04.01 at 21h 04m 16s.xml">
+      <configuration name="py.test for test-task-14.test_example" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test-extra-13_py - 2018.03.30 at 01h 14m 41s.xml">
-      <configuration name="py.test in test-extra-13.py" configurationId="tests" />
+    <history-entry file="py_test_for_test-task-14_test_example - 2018.04.01 at 21h 05m 31s.xml">
+      <configuration name="py.test for test-task-14.test_example" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test-extra-13_py - 2018.03.30 at 01h 15m 05s.xml">
-      <configuration name="py.test in test-extra-13.py" configurationId="tests" />
+    <history-entry file="py_test_for_test-task-14_test_example - 2018.04.01 at 21h 06m 33s.xml">
+      <configuration name="py.test for test-task-14.test_example" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test-extra-13_py - 2018.03.30 at 01h 22m 45s.xml">
-      <configuration name="py.test in test-extra-13.py" configurationId="tests" />
+    <history-entry file="py_test_for_test-task-14_test_example - 2018.04.01 at 21h 08m 37s.xml">
+      <configuration name="py.test for test-task-14.test_example" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -293,7 +298,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29986963" sideWeight="0.5025" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37418514" sideWeight="0.4975" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3911343" sideWeight="0.4975" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -312,32 +317,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test-google.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="91" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirefoxESRstart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Firefox-zapusk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test-litecart.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -625,13 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-task-12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-840">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/temp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -648,35 +625,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test-task-13.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
+        <state relative-caret-position="427">
           <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-task-11.py">
+    <entry file="file://$PROJECT_DIR$/test-temp2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1160">
-          <caret line="26" column="34" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="29" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-extra-11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="26" column="34" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="127">
+          <caret line="46" column="68" lean-forward="false" selection-start-line="46" selection-start-column="68" selection-end-line="46" selection-end-column="68" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-extra-13.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="47" column="4" lean-forward="false" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="336">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-task-12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-task-11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="49" column="93" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="49" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-extra-11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-260">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-extra-12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-task-14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
