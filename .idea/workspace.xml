@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5690400f-e782-4b56-ba85-a21163a2482e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/tes-extra-7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-extra-14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-extra-8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-task-17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text-extra-9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-extra-12.py" beforeDir="false" afterPath="$PROJECT_DIR$/test-extra-12.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,11 +14,14 @@
   <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test-task-17.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test-task-17.py">
+      <file leaf-file-name="test_python_group.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_python_group.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="296">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              <folding>
+                <element signature="e#24#82#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,6 +79,7 @@
         <option value="$PROJECT_DIR$/text-extra-9.py" />
         <option value="$PROJECT_DIR$/test-extra-12.py" />
         <option value="$PROJECT_DIR$/test-task-17.py" />
+        <option value="$PROJECT_DIR$/test_python_group.py" />
       </list>
     </option>
   </component>
@@ -114,7 +111,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,6 +122,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in test-task-17.py">
+  <component name="RunManager" selected="Python tests.py.test for test_python_group.test_python_group">
     <configuration name="py.test for test-task-17.test_example" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="okila-selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,6 +153,20 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test-task-17.test_example&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test for test_python_group.test_python_group" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="okila-selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_python_group.test_python_group&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="py.test for text-extra-9.test_example" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -200,34 +211,20 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test-task-17.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="py.test in text-extra-9.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="okila-selenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/text-extra-9.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
     <list>
       <item itemvalue="Python tests.py.test for text-extra-9.test_example" />
-      <item itemvalue="Python tests.py.test in text-extra-9.py" />
       <item itemvalue="Python tests.py.test in test-task-17.py" />
       <item itemvalue="Python tests.py.test in test-extra-12.py" />
       <item itemvalue="Python tests.py.test for test-task-17.test_example" />
+      <item itemvalue="Python tests.py.test for test_python_group.test_python_group" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.py.test for test_python_group.test_python_group" />
         <item itemvalue="Python tests.py.test in test-task-17.py" />
         <item itemvalue="Python tests.py.test for test-task-17.test_example" />
         <item itemvalue="Python tests.py.test in test-extra-12.py" />
         <item itemvalue="Python tests.py.test for text-extra-9.test_example" />
-        <item itemvalue="Python tests.py.test in text-extra-9.py" />
       </list>
     </recent_temporary>
   </component>
@@ -245,15 +242,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test-task-17_py - 2018.04.07 at 22h 11m 55s.xml">
-      <configuration name="py.test in test-task-17.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test-task-17_py - 2018.04.07 at 22h 24m 37s.xml">
-      <configuration name="py.test in test-task-17.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_text-extra-9_test_example - 2018.04.07 at 23h 56m 12s.xml">
-      <configuration name="py.test for text-extra-9.test_example" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_for_text-extra-9_test_example - 2018.04.08 at 00h 03m 21s.xml">
       <configuration name="py.test for text-extra-9.test_example" configurationId="tests" />
     </history-entry>
@@ -275,6 +263,15 @@
     <history-entry file="py_test_in_test-task-17_py - 2018.04.08 at 15h 32m 17s.xml">
       <configuration name="py.test in test-task-17.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="py_test_in_test-task-17_py - 2018.04.08 at 22h 10m 03s.xml">
+      <configuration name="py.test in test-task-17.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_python_group_test_python_group - 2018.04.09 at 00h 11m 59s.xml">
+      <configuration name="py.test for test_python_group.test_python_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_python_group_test_python_group - 2018.04.09 at 00h 50m 42s.xml">
+      <configuration name="py.test for test_python_group.test_python_group" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -283,13 +280,13 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.220625" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5025" side_tool="true" weight="0.29986963" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4975" visible="true" weight="0.33116037" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4975" weight="0.36636245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -308,6 +305,30 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_python_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="e#24#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-task-17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-task-17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test-task-17.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -607,10 +628,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test-python-group.py" />
     <entry file="file://$PROJECT_DIR$/test-task-17.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
+        <state relative-caret-position="80">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_python_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="e#24#82#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
